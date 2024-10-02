@@ -15,6 +15,10 @@
 
 https://replit.com/@shondsouza/Day-1-Band-Name-Generator
 
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
 
 
 
