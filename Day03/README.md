@@ -11,3 +11,6 @@
 ## Treasure Island
 
 ![Day3](https://github.com/shondsouza/100-Days-of-Code-Python/assets/138319148/216515e4-44e2-4dc4-a84b-e8adc35aed1e)
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
