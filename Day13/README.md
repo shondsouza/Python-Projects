@@ -5,3 +5,6 @@
 - Playing Computer and Evaluating Each Line
 - Squashing bugs with a print() Statement
 - Using a Debugger
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
